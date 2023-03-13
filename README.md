@@ -2,6 +2,7 @@
 
 ## clone and enter repo
 git clone https://github.com/gulabarora07/majority.git
+
 cd majority
 
 ## compile test
